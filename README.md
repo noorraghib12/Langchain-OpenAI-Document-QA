@@ -1,5 +1,5 @@
 # Langchain OpenAI Document QA
-ChatGPT-based chatbot that maybe used for querying on custom, uploadable documents. **(OpenAI paid API key required)**\
+ChatGPT-based chatbot that maybe used for querying on custom, uploadable documents. **(OpenAI paid API key required)**
 
 **Installation & Testing:**
 - Install required packages from requirements.txt (run "pip install -r requirements.txt")
