@@ -1,7 +1,7 @@
 # Langchain OpenAI Document QA
 ChatGPT-based chatbot that maybe used for querying on custom, uploadable documents. **(OpenAI paid API key required)**
 
-
+![run](https://github.com/noorraghib12/Langchain-OpenAI-Document-QA/blob/main/readme_png/app_sc.png)
 
 
 **Installation & Testing:**
@@ -10,7 +10,7 @@ ChatGPT-based chatbot that maybe used for querying on custom, uploadable documen
   ![envsample](https://github.com/noorraghib12/Langchain-OpenAI-Document-QA/blob/main/readme_png/_env_.png)
 - Arguments: Only one argument to be added (--vdb) for specifying vector database directory
 - Run "streamlit run app.py -- --vdb VECTOR_DATABASE_DIRECTORY" where VECTOR_DATABASE_DIRECTORY is the path in which you want your vector database to persist in. \
-![run](https://github.com/noorraghib12/Langchain-OpenAI-Document-QA/blob/main/readme_png/app_sc.png)
+
 
 
 **Document Format:**
