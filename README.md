@@ -8,4 +8,4 @@ ChatGPT-based chatbot that maybe used for querying on custom, uploadable documen
 - Run "streamlit run app.py -- --vdb VECTOR_DATABASE_DIRECTORY" where VECTOR_DATABASE_DIRECTORY is the path in which you want your vector database to persist in.
 
 **Document Format:**
-For now, the chatbot only supports uploading of pdf documents. Changes for txt,docx,etc can be made easily through code in app.py.\
+For now, the chatbot only supports uploading of pdf documents. Changes for txt,docx,etc can be made easily through code in app.py.
