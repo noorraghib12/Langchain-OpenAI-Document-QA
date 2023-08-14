@@ -1,0 +1,4 @@
+chroma-hnswlib==0.7.2
+chromadb==0.4.4
+streamlit==1.25.0
+langchain==0.0.250
